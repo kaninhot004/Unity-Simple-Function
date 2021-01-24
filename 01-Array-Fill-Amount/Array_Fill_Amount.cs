@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Monster_Gunner_Bubble : MonoBehaviour
+public class Array_Fill_Amount : MonoBehaviour
 {
     float m_ArrayAmount { get { return fillObjs.Length - 1; } }
 
